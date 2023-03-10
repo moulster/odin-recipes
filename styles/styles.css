@@ -1,0 +1,11 @@
+.titles {
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
+
+ul {
+    background-color: red;
+    color: yellow;
+    font-size: 30px;
+}
