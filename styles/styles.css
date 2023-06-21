@@ -5,11 +5,60 @@
 }
 
 ul {
-    background-color: red;
+    background-color: rgb(179, 246, 248);
     color: yellow;
     font-size: 30px;
 }
 
-images {
-    size: 25px;
+.spaghetti {
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+* {
+    margin: 25px;
+    border: 25px;
+    padding: 10px;
+}
+
+.container {
+    border: 15px solid rgb(179, 246, 248);
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+}
+
+.contained {
+    font-size: 25px;
+    background: black;
+    color: white;
+    border: 5px solid brown;
+    height: 50px;
+    gap: 15px;
+    padding: 25px;
+    flex: 1 1 auto;
+}
+
+.cont {
+    border: 5px solid rgb(170, 109, 109);
+    display: flex;
+    background:peachpuff;
+    padding: 1px;
+    gap: 5px;
+}
+
+.item {
+    margin: 5px;
+    flex: 1;
+    background-color: black;
+    color: white;
+    padding: 4px;
+    border: 5px solid salmon;
 }

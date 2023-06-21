@@ -1,0 +1,18 @@
+.title.big {
+    background-color: rgb(250, 206, 200);
+    color: black;
+    font-family: "DejaVu", sans-serif;
+    font-size: 24px;
+}
+
+.title.small {
+    font-size: 18px;
+    color: blue;
+}
+
+#anotation {
+    color: black;
+    font-size: 36px;
+    background-color: rgb(78, 204, 78);
+    font-weight: bold;
+}
